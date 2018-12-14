@@ -4,3 +4,4 @@
 * 181031 - Inductive biases, graph neural networks, attention and relational inference
 * 181121 - Bayesian neural network and uncertainty in deep learning
 * 181214 - Survey on adversarial training
+* Next - Survey on deep semi-supervised learning
